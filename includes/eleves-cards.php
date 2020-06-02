@@ -1,3 +1,4 @@
+
 <!-- COPIER CE BLOC -->
 <div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
     <a class="img-effect" href="promo3/simplonien-test">
@@ -5,7 +6,59 @@
             <img class="card-img img-effect rounded-circle effect" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-test-user.png" alt="Card image">
             <div class="card-body p-0">
                 <p class="mt-3 mb-1">
-                    <b>Simplonien Test</b>
+                    <b>Simplonien Tests</b>
+                </p>
+            </div>
+        </div>
+    </a>
+</div>
+
+
+<!-- /COPIER CE BLOC -->
+
+<!-- CARD OLIVIER GUILLEMOT -->
+<div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
+    <a class="img-effect" href="./promo3/Olivier-Guillemot">
+        <div class="card project">
+            <img class="card-img img-effect rounded-circle effect" src="promo3/Olivier-Guillemot/IMG/olivier300.jpeg" alt="Card image">
+            <div class="card-body p-0">
+                <p class="mt-3 mb-1">
+                    <b>Olivier Guillemot</b>
+                </p>
+            </div>
+        </div>
+    </a>
+</div>
+<!-- END CARD OLIVIER GUILLEMOT -->
+
+<!-- ======================= ESTHER CARD ========================== -->
+<div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
+    <a class="img-effect" href="promo3/Esther-Itam">
+        <div class="card project">
+            <img class="card-img img-effect rounded-circle effect" src="promo3/Esther-Itam/images/portrait.jpg"
+                 alt="portrait">
+            <div class="card-body p-0 mb-3">
+                <p class="mt-3 mb-1">
+                    <b>Esther Itam</b>
+                </p>
+            </div>
+        </div>
+    </a>
+</div>
+<!-- ======================= END OF ESTHER CARD ========================== -->
+
+<!-- CARD Celine -->
+<div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
+    <a class="img-effect" href="promo3/celine-leroux">
+        <div class="card project">
+            <img class="card-img img-effect rounded-circle effect" src="promo3/celine-leroux/images/CL.jpg"
+                 alt="portrait">
+            <div class="card-body p-0 mb-3">
+                <p class="mt-3 mb-1">
+
+                    <b>Céline LEROUX</b>
+
+
                 </p>
             </div>
         </div>
@@ -25,15 +78,16 @@
         </div>
     </a>
 </div>
+
 <!-- FIN CARD Lucas -->
 
 <!-- ======================= USHER CARD ========================== -->
 <div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
     <a class="img-effect" href="promo3/usher_kadio">
         <div class="card project">
-            <img class="card-img img-effect rounded-circle effect" src="../promo3/usher_kadio/images/profil-pic_2.jpg" alt="Card
-            image">
-            <div class="card-body p-0">
+            <img class="card-img img-effect rounded-circle effect" src="promo3/usher_kadio/images/usher_pic3.jpg"
+                 alt="usher pic">
+            <div class="card-body p-0 mb-3">
                 <p class="mt-3 mb-1">
                     <b>Usher Kadio</b>
                 </p>
@@ -42,12 +96,12 @@
     </a>
 </div>
 <!-- ======================= END OF USHER CARD ========================== -->
-                  
+
 <!-- CARD Maureen  -->
 <div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
-    <a class="img-effect" href="promo3/maureen-depresle">
+    <a class="img-effect" href="promo3/Maureen-Depresle">
         <div class="card project">
-            <img class="card-img img-effect rounded-circle effect" src="promo3/maureen-depresle/img/avatar-maureen.png" alt="Card image">
+            <img class="card-img img-effect rounded-circle effect" src="promo3/Maureen-Depresle/img/maureen.jpg" alt="Card image">
             <div class="card-body p-0">
                 <p class="mt-3 mb-1">
                     <b>Maureen Depresle</b>
@@ -62,7 +116,9 @@
 <div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
     <a class="img-effect" href="promo3/Clement-Debatisse/">
         <div class="card project">
-            <img class="card-img img-effect rounded-circle effect" src="promo3\Clement-Debatisse\library\img-placeholder.png" alt="Card image">
+
+            <img class="card-img img-effect rounded-circle effect" src="promo3\Clement-Debatisse\library\CD-Profile.jpg" alt="Card image">
+
             <div class="card-body p-0">
                 <p class="mt-3 mb-1">
                     <b>Clément Debatisse</b>
@@ -86,11 +142,12 @@
         </div>
     </a>
 </div>
+
 <!-- FIN CARD MATTHIAS -->
-              
+
 <!-- veronique FOREST-->
 <div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
-    <a class="img-effect" href="./promo3/Forest_Véronique">
+    <a class="img-effect vero" href="./promo3/Forest_Véronique">
         <div class="card project">
             <img class="card-img img-effect rounded-circle effect" src="./promo3/Forest_Véronique/pictures/vf.jpg" alt="Card image">
             <div class="card-body p-0">
@@ -152,7 +209,7 @@
 <div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
     <a class="img-effect" href="promo3/Coatmeur-Audrene">
         <div class="card project">
-            <img class="card-img img-effect rounded-circle effect" src="promo3/Coatmeur-Audrene/img/testphoto.jpg" alt="Card image">
+            <img class="card-img img-effect rounded-circle effect" src="promo3/Coatmeur-Audrene/img/photo.jpg" alt="Card image">
             <div class="card-body p-0">
                 <p class="mt-3 mb-1">
                     <b>Coatmeur Audrene</b>
@@ -167,7 +224,7 @@
 <div class="col-md-4 px-4 mb-4 col-6 px-lg-5" id="Szucs-Gregory">
     <a class="img-effect" href="promo3/Szucs-Gregory">
     <div class="card project">
-        <img class="card-img img-effect rounded-circle effect" src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-test-user.png" alt="Card image">
+        <img class="card-img img-effect rounded-circle effect" src="promo3/Szucs-Gregory/images/szucs-gregory.png" alt="Card image">
         <div class="card-body p-0">
             <p class="mt-3 mb-1">
                 <b>Gregory Z. Szucs</b>
@@ -177,3 +234,21 @@
 </a>
 </div>
 <!-- end of card Gregory Szucs -->
+
+<!-- CARD Yoan Chalavon -->
+
+<div class="col-md-4 px-4 mb-4 col-6 px-lg-5">
+    <a class="img-effect" href="./promo3/Yoan CHALAVON">
+        <div class="card project">
+            <img class="card-img img-effect rounded-circle effect" src="../img/profil.jpg">
+            <div class="card-body p-0">
+                <p class="mt-3 mb-1">
+                    <b>Yoan CHALAVON</b>
+                </p>
+            </div>
+        </div>
+    </a>
+</div>
+<!-- END CARD Yoan Chalavon -->
+
+
